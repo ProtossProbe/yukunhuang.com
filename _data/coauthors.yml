@@ -1,18 +1,12 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Gladman":
+  - firstname: ["B. J.", "Brett", "Brett J."]
+    url: https://www.astro.ubc.ca/people/gladman/
+"Gong":
+  - firstname: ["S.", "Shengping", "Sheng-Ping"]
+    url: http://shi.buaa.edu.cn/gongshengping/zh_CN/index.htm
+"Li":
+  - firstname: ["J.", "Junfeng", "Jun-Feng"]
+    url: https://www.hy.tsinghua.edu.cn/info/1151/1887.htm
+"Volk":
+  - firstname: ["K.", "Kat", "Kathryn"]
+    url: https://katvolk.com/wp/
