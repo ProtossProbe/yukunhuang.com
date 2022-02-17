@@ -6,7 +6,7 @@ subtitle: PhD candidate at <a href='https://phas.ubc.ca/'>UBC Physics & Astronom
 
 profile:
   align: right
-  image: placeholder.png
+  image: 5.jpg
   address: >
     <p>6224 Agricultural Road</p>
     <p>Vancouver, Canada</p>
