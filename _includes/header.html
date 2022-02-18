@@ -33,10 +33,17 @@
                   {%- endif -%}
                 </a>
               </li>
+
+              <!-- Blog -->
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.cv_path | relative_url }}" target="_blank">CV
+                </a>
+              </li>
+
               {% if site.blog_name %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'data' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/data/' | relative_url }}">DATA RELEASE
+                <a class="nav-link" href="{{ '/data/' | relative_url }}">DOWNLOADS
                   {%- if page.title == "blog" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -45,12 +52,12 @@
               {%- endif %}
 
               <!-- Other pages -->
-              {%- assign sorted_pages = site.pages | sort: "title" -%}
+              {%- assign sorted_pages = site.pages -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.navititle }}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -67,7 +74,7 @@
               </li>
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
+                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.navititle }}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}

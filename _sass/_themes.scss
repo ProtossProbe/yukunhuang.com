@@ -15,6 +15,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, .1);
   --global-secondary-color: #{$blue-color};
+  --global-highlight-color: #{$light-yellow-color};
 
   .fa-sun {
     display: none;
@@ -40,6 +41,7 @@ html[data-theme='dark'] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-secondary-color: #{$green-color};
+  --global-highlight-color: #{$light-red-color};
 
   .fa-sun {
     padding-left: 10px;

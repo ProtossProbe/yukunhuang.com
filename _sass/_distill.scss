@@ -26,6 +26,7 @@ d-article {
     border-bottom-color: var(--global-divider-color) !important;
   }
   a {
+    color: var(--global-text-color) !important;
     border-bottom-color: var(--global-theme-color) !important;
   }
   a:hover {
@@ -34,7 +35,7 @@ d-article {
   b i {
     display: inline;
   }
-  table{
+  table {
     color: var(--global-text-color) !important;
   }
 
@@ -129,4 +130,8 @@ d-appendix {
       }
     }
   }
+}
+
+.katex-html {
+  color: var(--global-distill-app-color) !important;
 }

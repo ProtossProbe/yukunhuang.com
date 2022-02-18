@@ -1,20 +1,25 @@
 ---
 layout: about
 title: home
+navititle: HOME
 permalink: /
-subtitle: PhD candidate at <a href='https://phas.ubc.ca/'>UBC Physics & Astronomy</a>, working with Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a>
+subtitle:
 
 profile:
   align: right
-  image: 5.jpg
+  image: prof_pic.jpg
   address: >
-    <p>6224 Agricultural Road</p>
-    <p>Vancouver, Canada</p>
-    <p><a href="mailto:yhuang@phas.ubc.ca">yhuang@phas.ubc.ca</a></p>
+    <p>Dept. Physics & Astronomy, UBC</p>
+    <p>Vancouver, BC V6T 1Z1, Canada</p>
+    <p><a href='mailto:yhuang@phas.ubc.ca'>yhuang&lt;at&gt;phas.ubc.ca</a> | <a href='download/cv/CV_Yukun_Huang(202202).pdf'>CV</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-My <a href="{{ site.baseurl }}/download/cv/CV_Yukun_Huang(202202).pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+My name is Yukun Huang (黄宇坤, "Huáng yǔkūn" in standard Mandarin). I'm a PhD candidate at <a href='https://phas.ubc.ca/'>UBC Dept. Physics & Astronomy</a>. I work with Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a> on a variety of interesting topics in dynamical astronomy, such as the [Earth--Mars belt](https://doi.org/10.1093/mnras/staa3076), the Kuiper belt, and the formation and dynamical evolution of the Solar System.
+
+I graduated from [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University) in 2019 with a Master's degree in Aerospace science. I finished my undergraduate study in 2016 at [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology), majoring in Engineering mechanics.
+
+I'm a [CSC](https://en.wikipedia.org/wiki/China_Scholarship_Council) doctoral scholar and a [Leong scholar](https://www.grad.ubc.ca/awards/edwin-sh-leong-csc-ubc-phd-scholarship). I'm aslo a referee of [MNRAS](https://academic.oup.com/mnras). You can find me in other places like [Google Scholar](https://scholar.google.com/citations?user=AfEgNNgAAAAJ), [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0003-1215-4130&sort=date%20desc%2C%20bibcode%20desc), and [Twitter](https://twitter.com/__Probe__).

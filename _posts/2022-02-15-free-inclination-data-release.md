@@ -121,7 +121,7 @@ To help the reader quickly estimate the corrent free inclinations for future TNO
 
 Click **<a href="{{ site.baseurl }}/download/ifree/ifree.tar.gz" target="_blank" rel="noopener noreferrer">here</a>** to download both the data file and the Python script.
 
-| Axis Name  | Range           | Grid size | Dimension |
+| Axis Names  | Ranges           | Grid sizes | Dimensions |
 | ---------- | --------------- | --------- | --------- |
 | a          | (39.4, 47.7) au | 0.1 au    | 84        |
 | e          | (0, 0.25)       | 0.01      | 26        |

@@ -6,6 +6,7 @@
 
 // Colors
 $red-color:           #E72C2C !default;
+$light-red-color:     rgba($red-color, 0.25);
 $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
 $blue-color:          #51B9DE !default;
@@ -22,9 +23,9 @@ $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #ffe026 !default;
-
+$light-yellow-color:  rgba($yellow-color, 0.25);
 $grey-color:          #828282 !default;
-$grey-color-light:    lighten($grey-color, 40%);
+$grey-color-light:    lighten($grey-color, 30%);
 $grey-color-dark:     #1C1C1D;
 
 $white-color: #ffffff !default;
