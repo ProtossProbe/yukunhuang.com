@@ -118,7 +118,7 @@ $(document).ready(function () {
 
 ## Pre-computed Forcing Poles and How to use it
 
-To help the reader quickly estimate the corrent free inclinations for future TNOs, we provide a downloadable data file, in which the forcing pole components q and p are precomputed in a 4-dimensional (a, e, I, ω) grid, where I is the J2000 ecliptic inclination. We also provide a Python script to read the file and the find the closet data point for any given orbit, which the reader can then use to estimate the free inclination that would be given by the double average method.
+To help the reader quickly estimate the corrent free inclinations for future TNOs, we provide a downloadable data file, in which the forcing pole components q and p are precomputed in a 4-dimensional (a, e, I, ω) grid, where I is the J2000 ecliptic inclination. We also provide a Python script to read the file and the find the closest data point for any given orbit, which the reader can then use to estimate the free inclination that would be given by the double average method.
 
 Click **<a href="{{ site.baseurl }}/download/ifree/ifree.tar.gz" target="_blank" rel="noopener noreferrer">here</a>** to download both the data file and the Python script.
 

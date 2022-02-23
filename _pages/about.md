@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Yukun Huang (黄宇坤, "Huáng yǔkūn" in standard Mandarin). I'm a PhD candidate at <a href='https://phas.ubc.ca/'>UBC Dept. Physics & Astronomy</a>, working with Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a>. I work on a variety of interesting topics in dynamical astronomy, such as the [Earth--Mars belt](https://doi.org/10.1093/mnras/staa3076), the Kuiper belt, and the formation and dynamical evolution of the Solar System.
+My name is Yukun Huang (黄宇坤, "Huáng yǔkūn" in standard Mandarin). I'm a PhD candidate at <a href='https://phas.ubc.ca/'>UBC Dept. Physics & Astronomy</a>, working with Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a>. I work on a variety of interesting topics in dynamical astronomy, such as the the dynamics of retrograde resonances, [Earth--Mars belt](https://doi.org/10.1093/mnras/staa3076), the Kuiper belt, and the formation and dynamical evolution of the Solar System.
 
 I graduated from [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University) in 2019 with a Master's degree in Aerospace science. I finished my undergraduate study in 2016 at [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology), majoring in Engineering mechanics.
 
