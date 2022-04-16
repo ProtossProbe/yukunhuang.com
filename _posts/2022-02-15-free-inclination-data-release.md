@@ -27,7 +27,7 @@ toc:
 
 ---
 
-**Note.** Please read our [paper](https://arxiv.org/abs/2202.09045) before using the <a href="{{ site.baseurl }}/download/ifree/ifree_release.csv" target="_blank" rel="noopener noreferrer">table</a> and the <a href="{{ site.baseurl }}/download/ifree/ifree.tar.gz" target="_blank" rel="noopener noreferrer">script</a>.
+**Note.** Please read our [paper](https://iopscience.iop.org/article/10.3847/1538-4365/ac559a) before using the <a href="{{ site.baseurl }}/download/ifree/ifree_release.csv" target="_blank" rel="noopener noreferrer">table</a> and the <a href="{{ site.baseurl }}/download/ifree/ifree.tar.gz" target="_blank" rel="noopener noreferrer">script</a>.
 
 ## Free Inclination Table
 
@@ -36,7 +36,7 @@ The following interactive data table includes barycentric orbital elements and f
 
 Check out the [Table Descriptions](#table-desciptions) for details on each column. Column orders are not identical to the published version.
 
-Click **<a href="{{ site.baseurl }}/download/ifree/ifree_release.csv" target="_blank" rel="noopener noreferrer">here</a>** to download the table in `.csv` format. Make sure to cite our [2022 ApJS paper](https://arxiv.org/abs/2202.09045) instead of this website if you're using the table. An example of proper citation would look like:  `Y. Huang, B. Gladman, K. Volk. ApJS XXX XX (2022)` (volume and page numbers will be updated after publication)
+Click **<a href="{{ site.baseurl }}/download/ifree/ifree_release.csv" target="_blank" rel="noopener noreferrer">here</a>** to download the table in `.csv` format. Make sure to cite our [2022 ApJS paper](https://iopscience.iop.org/article/10.3847/1538-4365/ac559a) instead of this website if you're using the table. An example of proper citation would look like:  `Y. Huang, B. Gladman, K. Volk. ApJS 259 54 (2022)`
 
 <br />
 
