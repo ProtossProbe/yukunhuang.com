@@ -34,14 +34,14 @@
                 </a>
               </li>
 
-              <!-- Blog -->
+              <!-- CV -->
               <li class="nav-item">
                 <a class="nav-link" href="{{ site.cv_path | relative_url }}" target="_blank">CV
                 </a>
               </li>
 
               {% if site.blog_name %}
-              <!-- Blog -->
+              <!-- Downloads -->
               <li class="nav-item {% if page.url contains 'data' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/data/' | relative_url }}">DOWNLOADS
                   {%- if page.title == "blog" -%}
