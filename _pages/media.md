@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /media/
-title: IN THE MEDIA
+title: PRESS COVERAGE
 navititle: MEDIA
 description:
 nav: true
