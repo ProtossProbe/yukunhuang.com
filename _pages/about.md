@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Dept. Physics & Astronomy, UBC</p>
     <p>Vancouver, BC V6T 1Z1, Canada</p>
-    <p><a href='mailto:yhuang@phas.ubc.ca'>yhuang&lt;at&gt;phas.ubc.ca</a> | <a href='download/cv/CV_Yukun_Huang(202205).pdf'>CV</a></p>
+    <p><a href='mailto:yhuang@phas.ubc.ca'>yhuang&lt;at&gt;phas.ubc.ca</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true  # includes a list of news items
