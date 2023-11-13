@@ -19,18 +19,18 @@ toc:
 ## Meeting VODs
 
 ### DPS 2023 - San Antonio, TX, US
-* [Primordial Orbital Clustering of Sednoids](download/videos/dps2023-sednoids-talk.mp4)
+* [Primordial Orbital Clustering of Sednoids](download/videos/talks/dps2023-sednoids-talk.mp4)
 
 ### DPS 2022 - London, ON, Canada
-* [Effect of a Rogue Planet on the Early Solar System](download/videos/dps2022-rogue-planet-talk.mp4)
+* [Effect of a Rogue Planet on the Early Solar System](download/videos/talks/dps2022-rogue-planet-talk.mp4)
 
 ### DDA 2022 - Manhattan, NY, US
-* [A Rogue Planet Populated the Distant Kuiper Belt](download/videos/dda2022-rogue-planet-talk.mp4)
+* [A Rogue Planet Populated the Distant Kuiper Belt](download/videos/talks/dda2022-rogue-planet-talk.mp4)
 
 ## Animations
 ### Huang et al. 2022, ApJL
 **Note.** Please read our [paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac9480) before using these two videos:
 
-* [Main Simulation with the Rogue](download/videos/apjl2022-rogue-main-sim-animation.mp4)
+* [Main Simulation with the Rogue](download/videos/animations/apjl2022-rogue-main-sim-animation.mp4)
 
-* [Reference Simulation without the Rogue](download/videos/apjl2022-rogue-ref-sim-animation.mp4)
+* [Reference Simulation without the Rogue](download/videos/animations/apjl2022-rogue-ref-sim-animation.mp4)
