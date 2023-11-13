@@ -19,7 +19,7 @@ baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 cv_path: >
-  download/cv/CV_Yukun_Huang(202207).pdf
+  download/cv/CV_Yukun_Huang(202311).pdf
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
@@ -80,7 +80,7 @@ panelbear_analytics: # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: DOWNLOADS # your blog must have a name for it to show up in the nav bar
+blog_name: downloads # your blog must have a name for it to show up in the nav bar
 blog_description: retrive data files resulting from my research
 permalink: /data/:year/:title/
 

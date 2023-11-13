@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: REFEREED PUBLICATIONS
-navititle: PUBLICATIONS
+title: Refereed Publications
+navititle: publications
 description:
-years: [2022, 2021, 2020, 2019, 2018]
+years: [2023, 2022, 2021, 2020, 2019, 2018]
 nav: true
 ---
 <!-- _pages/publications.md -->

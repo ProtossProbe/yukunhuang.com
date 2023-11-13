@@ -27,7 +27,7 @@
 
               <!-- About -->
               <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">HOME
+                <a class="nav-link" href="{{ '/' | relative_url }}">home
                   {%- if page.title == "about" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -36,14 +36,14 @@
 
               <!-- CV -->
               <li class="nav-item">
-                <a class="nav-link" href="{{ site.cv_path | relative_url }}" target="_blank">CV
+                <a class="nav-link" href="{{ site.cv_path | relative_url }}" target="_blank">cv
                 </a>
               </li>
 
               {% if site.blog_name %}
               <!-- Downloads -->
               <li class="nav-item {% if page.url contains 'data' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/data/' | relative_url }}">DOWNLOADS
+                <a class="nav-link" href="{{ '/data/' | relative_url }}">downloads
                   {%- if page.title == "blog" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
