@@ -15,10 +15,8 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an astronomy PhD interested in a variety of topics in dynamical astronomy, such as the the dynamics of retrograde resonances, Earth--Mars belt, the Kuiper belt, and the formation and dynamical evolution of the Solar System.
+Welcome to my academic homepage. I am currently a visiting scholar within the [Dept. of Astronomy](https://astro.tsinghua.edu.cn/) at Tsinghua University. My research interests span a broad array of topics within dynamical astronomy. These include exploring the retrograde mean-motion resonances, delving into the mysteries of the Kuiper belt, and unraveling the complex processes involved in the formation and dynamical evolution of the Solar System.
 
-I graduated from UBC Dept. Physics & Astronomy in July 2023, working with Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a>. My PhD thesis focused on the [「Dynamics of transneptunian objects under the influence of a rogue planet」](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0434211). I graduated with distinction from [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University) in 2019 with a Master's degree in astrodynamics. 
-
-<!-- I finished my undergraduate study in 2016 at [Harbin Institute of Technology](https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology). -->
+I completed my PhD from UBC Dept. of Physics & Astronomy under the guidance of Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a> in 2023. Prior to this, I achieved my Master's degree in astrodynamics with distinction from Tsinghua University in 2019.
 
 You can find me in other places like [Google Scholar](https://scholar.google.com/citations?user=AfEgNNgAAAAJ) and [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0003-1215-4130&sort=date%20desc%2C%20bibcode%20desc).
