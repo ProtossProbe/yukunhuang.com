@@ -8,9 +8,6 @@ nav: true
 ---
 
 ## 2024
-[Science] [Where did Earth’s oddball ‘quasi-moon’ come from? Scientists pinpoint famed lunar crater](https://www.science.org/content/article/where-did-earth-s-oddball-quasi-moon-come-scientists-pinpoint-famed-lunar-crater) - 19 April 2024
-
-## 2024
 
 [Science] [Where did Earth’s oddball ‘quasi-moon’ come from? Scientists pinpoint famed lunar crater](https://www.science.org/content/article/where-did-earth-s-oddball-quasi-moon-come-scientists-pinpoint-famed-lunar-crater) - Apr. 2024
 
