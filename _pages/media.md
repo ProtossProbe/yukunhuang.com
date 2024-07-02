@@ -18,8 +18,6 @@ nav: true
 
 [ScienceAlert] [This Crater Could Be Where Earth's 'Second Moon' Broke Off The First One](https://www.sciencealert.com/this-crater-could-be-where-earths-second-moon-broke-off-the-first-one) - Apr. 2024
 
-[AAS Nova] [Sednoids: Echoes of a Rogue Planet in the Early Solar System?](https://aasnova.org/2024/03/05/sednoids-echoes-of-a-rogue-planet-in-the-early-solar-system/) - Mar. 2023
-
 
 ## 2023
 [astrobites] [Sednoids: Echoes of a Rogue Planet in the Early Solar System?  ](https://astrobites.org/2023/11/06/sednoids-rogue-planet/) - Nov. 2023
