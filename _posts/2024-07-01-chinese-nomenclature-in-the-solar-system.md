@@ -50,7 +50,7 @@ toc:
 
   **⟡** "振荡天星"
 
-  <small> **→** Kamoʻoalewa 是地球的拟卫星，其名称来源于夏威夷语"振荡的天星"，亦是中国天问二号小行星采样任务的目标小行星。使用此名的相关[新闻报道](https://tv.cctv.com/2024/06/22/VIDEzhacDk64VjiYxmDoipVB240622.shtml)。</small>
+  <small> **→** 地球的拟卫星，其名称来源于夏威夷语"振荡的天星"，亦是中国天问二号小行星采样任务的目标小行星。使用此名的相关[新闻报道](https://tv.cctv.com/2024/06/22/VIDEzhacDk64VjiYxmDoipVB240622.shtml)。</small>
 
 - **[Itokawa (1998 SF<sub>36</sub>)](https://en.wikipedia.org/wiki/25143_Itokawa)**
 
