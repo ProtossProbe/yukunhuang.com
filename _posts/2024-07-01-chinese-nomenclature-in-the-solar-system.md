@@ -117,12 +117,6 @@ An increasing number of Chinese astronomers and planetary scientists are conduct
 
   <small> **→** 真中苍是日本漫画家 Quro 所作动漫《恋爱小行星》中的角色。苍与她的朋友怀着将一颗小行星命名为“苍”的梦想，在高中积极进行地球科学社的活动。该作凭借著对天体与地质学知识的正确描绘，激发了大量读者学习地球与行星科学的兴趣。</small>
 
-- **[Quro](https://en.wikipedia.org/wiki/718492_Quro)**
-
-  **⟡** "苍"
-
-  <small> **→** 真中苍是日本漫画家 Quro 所作动漫《恋爱小行星》中的角色。苍与她的朋友怀着将一颗小行星命名为“苍”的梦想，在高中积极进行地球科学社的活动。该作凭借著对天体与地质学知识的正确描绘，激发了大量读者学习地球与行星科学的兴趣。</small>
-
 ---
 
 ## 木星共轨空间
