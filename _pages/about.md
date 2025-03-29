@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my academic homepage. I am currently a Project Research Fellow at [CfCA](https://www.cfca.nao.ac.jp/) [NAOJ](https://www.nao.ac.jp/en/), working with Prof. [Eiichiro Kokubo](https://www.cfca.nao.ac.jp/~kokubo/). My research interests span a broad array of topics within dynamical astronomy. These include exploring the retrograde mean-motion resonances, delving into the mysteries of the Kuiper belt, and unraveling the complex processes involved in the formation and evolution of planetary systems.
+Welcome to my academic homepage. I am currently a Project Research Fellow at [CfCA](https://www.cfca.nao.ac.jp/) [NAOJ](https://www.nao.ac.jp/en/), working with Prof. [Eiichiro Kokubo](https://www.cfca.nao.ac.jp/~kokubo/). My research interests span a broad array of topics within dynamical astronomy. These include celestial mechanics, Kuiper Belt objects, and the formation and evolution history of the Solar System.
 
 I completed my PhD from UBC Dept. of Physics & Astronomy under the guidance of Prof. <a href='https://www.astro.ubc.ca/people/gladman/'>Brett Gladman</a> in 2023. Prior to this, I achieved my Master's degree in astrodynamics with distinction from Tsinghua University in 2019.
 

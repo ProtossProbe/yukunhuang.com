@@ -22,15 +22,10 @@ toc:
 
 # 太阳系天体的中文命名及术语
 
-本文件汇编了太阳系内及外围天体的中文命名、译名及相关术语，旨在为华人天文学家和行星科学家的工作提供一致、便于交流的命名体系。
-*Many Chinese astronomers and planetary scientists are studying small Solar System bodies. However, the lack of well-accepted Chinese translations for many objects named by the [IAU](https://www.iau.org/public/themes/naming/) makes communication and public outreach challenging.*
-
----
-
-## 为什么需要这个列表？
-
 越来越多的华人天文学家和行星科学家正在从事太阳系内小天体的研究工作。不过，许多已被国际天文学联合会（IAU）命名的天体缺乏公认的中文翻译，这使得华人天文学者彼此之间的交流以及向公众宣传他们的工作变得困难。因此，我决定编此列表，以收录太阳系内天体的中文译名。
 对于在 [天文学名词](https://nadc.china-vo.org/astrodict/) 中收录了翻译的天体，会提供它们的出处（例如，[冥王星](https://nadc.china-vo.org/astrodict/termdetails?id=3367)）；而对于尚未被广泛采用的翻译，将列出大众所熟知的名称或提供我自己的译名，并用双引号标出（如 "振荡天星"）。
+
+An increasing number of Chinese astronomers and planetary scientists are conducting research on small bodies within the Solar System. However, many celestial bodies that have been officially named by the International Astronomical Union (IAU) lack widely recognized Chinese translations. This creates challenges for communication among Chinese-speaking researchers as well as for public outreach. Therefore, I have decided to compile this list to record the Chinese translations of Solar System objects. For celestial bodies whose translations have already been included in the [Astronomical Terms Dictionary](https://nadc.china-vo.org/astrodict/), their sources will be provided (e.g., [冥王星](https://nadc.china-vo.org/astrodict/termdetails?id=3367)). For translations that are not yet widely adopted, commonly known names will be listed or I will provide my own translations, which will be enclosed in quotation marks (e.g., "振荡天星").
 
 ---
 
@@ -115,6 +110,18 @@ toc:
   **⟡** "丁基内什"
 
   <small> **→** 是阿姆哈拉语中对露西化石的称呼。</small>
+
+- **[Ao](https://en.wikipedia.org/wiki/697402_Ao)**
+
+  **⟡** "苍"
+
+  <small> **→** 真中苍是日本漫画家 Quro 所作动漫《恋爱小行星》中的角色。苍与她的朋友怀着将一颗小行星命名为“苍”的梦想，在高中积极进行地球科学社的活动。该作凭借著对天体与地质学知识的正确描绘，激发了大量读者学习地球与行星科学的兴趣。</small>
+
+- **[Quro](https://en.wikipedia.org/wiki/718492_Quro)**
+
+  **⟡** "苍"
+
+  <small> **→** 真中苍是日本漫画家 Quro 所作动漫《恋爱小行星》中的角色。苍与她的朋友怀着将一颗小行星命名为“苍”的梦想，在高中积极进行地球科学社的活动。该作凭借著对天体与地质学知识的正确描绘，激发了大量读者学习地球与行星科学的兴趣。</small>
 
 ---
 
@@ -312,7 +319,7 @@ toc:
 
   **⟡** 梼杌(táo wù)
 
-  <small> **→** 中国古代神话中的四大凶首之一，人头虎腿长有野猪獠牙。</small>
+  <small> **→** 中国古代神话中的四大凶首之一，人头虎腿长有野猪獠牙。471325 Taowu（梼杌）是一颗逆行的海王星外天体，它的轨道倾角为 110°，估测直径在 100 千米。2025 年 2 月 3 日，国际天文联合会提议以中国神话中“四凶”之一的“梼杌(táo wù)”来命名该小天体。</small>
 
 #### 类赛德娜天体
 
