@@ -303,7 +303,7 @@ An increasing number of Chinese astronomers and planetary scientists are conduct
 
   <small> **→** 希腊神话中的不和女神。</small>
 
-- **[Gǃkúnǁʼhòmdímà](https://en.wikipedia.org/wiki/Eris_(dwarf_planet))**
+- **[Gǃkúnǁʼhòmdímà](https://en.wikipedia.org/wiki/229762_G%C7%83k%C3%BAn%C7%81%CA%BCh%C3%B2md%C3%ADm%C3%A0)**
 
   **⟡** [“雹神星”](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A1%8C%E6%98%9F229762)
 
