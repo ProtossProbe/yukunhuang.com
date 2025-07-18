@@ -22,8 +22,8 @@ toc:
 
 # 太阳系天体的中文命名及术语
 
-越来越多的华人天文学家和行星科学家正在从事太阳系内小天体的研究工作。不过，许多已被国际天文学联合会（IAU）命名的天体缺乏公认的中文翻译，这使得华人天文学者彼此之间的交流以及向公众宣传他们的工作变得困难。因此，我决定编此列表，以收录太阳系内天体的中文译名。
-对于在 [天文学名词](https://nadc.china-vo.org/astrodict/) 中收录了翻译的天体，会提供它们的出处（例如，[冥王星](https://nadc.china-vo.org/astrodict/termdetails?id=3367)）；而对于尚未被广泛采用的翻译，将列出大众所熟知的名称或提供我自己的译名，并用双引号标出（如 "振荡天星"）。
+越来越多的华人天文学家以及行星科学家都在研究太阳系内小天体。但许多被国际天文学联合会（IAU）命名的小天体缺乏公认的中文翻译，这让华人学者间的交流以及向公众的科普变得困难。故编此列表，以收录太阳系内小天体的中文译名。
+对于在 [天文学名词](https://nadc.china-vo.org/astrodict/) 中收录了的天体，我会提供出处（例如，[冥王星](https://nadc.china-vo.org/astrodict/termdetails?id=3367)）；对于尚未被广泛采用的翻译，我将列出大众所熟知的名称或自己的译名，并用双引号标出（如 "振荡天星"）。
 
 An increasing number of Chinese astronomers and planetary scientists are conducting research on small bodies within the Solar System. However, many celestial bodies that have been officially named by the International Astronomical Union (IAU) lack widely recognized Chinese translations. This creates challenges for communication among Chinese-speaking researchers as well as for public outreach. Therefore, I have decided to compile this list to record the Chinese translations of Solar System objects. For celestial bodies whose translations have already been included in the [Astronomical Terms Dictionary](https://nadc.china-vo.org/astrodict/), their sources will be provided (e.g., [冥王星](https://nadc.china-vo.org/astrodict/termdetails?id=3367)). For translations that are not yet widely adopted, commonly known names will be listed or I will provide my own translations, which will be enclosed in quotation marks (e.g., "振荡天星").
 
@@ -85,7 +85,7 @@ An increasing number of Chinese astronomers and planetary scientists are conduct
 
 - **[Apophis (2004 MN<sub>4</sub>)](https://en.wikipedia.org/wiki/99942_Apophis)**
 
-  **⟡** [毁神星](https://nadc.china-vo.org/astrodict/termdetails?id=273)
+  **⟡** [毁神星](https://nadc.china-vo.org/astrodict/termdetails?id=273)/“阿波菲斯”
 
   <small> **→** 将会在 2029 年 4 月 13 日近距离飞越地球的小行星。在发现之初曾被认为有概率撞上地球而得此名。</small>
 
@@ -115,7 +115,7 @@ An increasing number of Chinese astronomers and planetary scientists are conduct
 
   **⟡** "苍"
 
-  <small> **→** 真中苍是日本漫画家 Quro 所作动漫《恋爱小行星》中的角色。苍与她的朋友怀着将一颗小行星命名为“苍”的梦想，在高中积极进行地球科学社的活动。该作凭借著对天体与地质学知识的正确描绘，激发了大量读者学习地球与行星科学的兴趣。</small>
+  <small> **→** 真中苍是日本漫画家 Quro 所作动漫《恋爱小行星》中的角色。苍与她的朋友怀着将一颗小行星命名为“苍”的梦想，在高中积极进行地球科学社的活动。该作凭借著对天体与地质学知识的正确描绘，激发了大量读者研究地学与行星科学的兴趣。</small>
 
 ---
 
