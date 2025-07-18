@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-
-  <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://yukunhuang.com/" />        
+<!-- _layouts/distill.html -->
+<html>
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
     <!-- Website verification -->
@@ -12,9 +11,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Yukun Huang | Page not found</title>
+    <title>Yukun Huang | Meeting Recordings and Animations</title>
     <meta name="author" content="Yukun  Huang" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="download video recordings and animations from my past talks" />
     <meta name="keywords" content="solar system dynamics, kuiper belt, celestial mechanics, astrodynamics" />
 
 
@@ -33,32 +32,13 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌟</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://yukunhuang.com/404.html">
+    <link rel="canonical" href="https://yukunhuang.com/data/2023/all-videos-download/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
     <script src="/assets/js/dark_mode.js"></script>
 
-  <!-- JavaScripts -->
-  <!-- jQuery -->
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
-  <!-- Bootsrap & MDB scripts -->
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-SyTu6CwrfOhaznYZPoolVw2rxoY7lKYKQvqbtqN93HI=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
-
-  <!-- Mansory & imagesLoaded -->
-  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script defer src="/assets/js/mansory.js" type="text/javascript"></script>
-  
-  <!-- Medium Zoom JS -->
-  <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
-  <script src="/assets/js/zoom.js"></script><!-- Load Common JS -->
-  <script src="/assets/js/common.js"></script>
-
-  <!-- MathJax -->
+    <!-- MathJax -->
   <script type="text/javascript">
     window.MathJax = {
       tex: {
@@ -69,106 +49,59 @@
   <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
   <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K0L2GX7Z7R"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'G-K0L2GX7Z7R');
-  </script>
-  <!-- JQuery Datatable -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-SyTu6CwrfOhaznYZPoolVw2rxoY7lKYKQvqbtqN93HI=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- JQuery Datatable -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" type="text/css" />
 <script type="text/javascript" src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
-  <!-- <script>
-    var frames=1
-    var c=document.getElementById("startrail")
-    var canvas=c.getContext("2d")
-    var radius=Math.sqrt(c.width*c.width+c.height*c.height)
-    var checkCanvasSize=function(){
-        if(c.width!=window.innerWidth||c.height!=window.innerHeight)
-        {
-            c.width=window.innerWidth
-            c.height=window.innerHeight
-            radius=Math.sqrt(c.width*c.width+c.height*c.height)
-            return true
-        }
-        return false
-    }
-    var passTime=0
-    var lastTime=Date.now()
-    var checkTime=function(){
-        passTime=(Date.now()-lastTime)/800
-        lastTime=Date.now()
-    }
-    var needUpdate=true
-    var starNumber=750
-    function Star(){
-        this.theta=2*Math.PI*Math.random()
-        this.radius=Math.random()
-    }
-    var starList=[]
-    var reroll=function(){
-        needUpdate=true
-        starNumber=parseInt(starNumber)
-        starList=new Array(starNumber).fill("").map(function(){return new Star()})
-    }
-    var centerX=20
-    var centerY=20
-    var speed=11
-    var speedOffset=0
-    var background="#000000"
-    var star="#e6e6e6"
-    var starSize=1.3
-    var alpha=0.07
-    var draw=function(){
-        var eps=0.001
-        var getColor=function(str,alpha){
-            return "rgba("+parseInt(str[1]+str[2],16)+","+parseInt(str[3]+str[4],16)+","+parseInt(str[5]+str[6],16)+","+alpha+")"
-        }
-        canvas.lineCap="round"
-        canvas.lineJoin="round"
-        canvas.lineWidth=starSize
-        canvas.fillStyle=getColor(background,alpha)
-        canvas.strokeStyle=star
-        canvas.fillRect(0,0,c.width,c.height)
-        starList.forEach(function(star){
-            var r=star.radius*radius
-            var deltaTheta=passTime*speed/100+(star.radius-0.5)*speedOffset/1000
-            var newTheta=star.theta+deltaTheta
-            newTheta-=newTheta>(2*Math.PI)?2*Math.PI:0
-            newTheta+=newTheta<0?2*Math.PI:0
-            var drawTheta=newTheta
-            if(Math.abs(deltaTheta)<eps){drawTheta=star.theta+eps*(deltaTheta<0?-1:1)}
-            canvas.beginPath()
-            canvas.arc(c.width*centerX/100,c.height*centerY/100,r,star.theta,drawTheta,deltaTheta<0)
-            canvas.stroke()
-            canvas.closePath()
-            star.theta=newTheta
-        })
-    }
-    var framecount=0
-    var animation=function(){
-        if(needUpdate){
-            document.body.style.background=background
-        }
-        if(checkCanvasSize()||needUpdate||framecount%frames==0){
-            checkTime()
-            draw()
-            needUpdate=false
-        }
-        framecount++
-        framecount%=frames
-        requestAnimationFrame(animation)
-    }
-    reroll()
-    animation()   
-  </script> -->
-
+    <!-- Distill js -->
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    
   </head>
 
-  <!-- Body -->
-  <body class="fixed-top-nav sticky-bottom-footer">
+  <d-front-matter>
+    <script async type="text/json">{
+      "title": "Meeting Recordings and Animations",
+      "description": "download video recordings and animations from my past talks",
+      "published": "November 13, 2023",
+      "authors": [
+        {
+          "author": "Yukun Huang",
+          "authorURL": "https://yukunhuang.com",
+          "affiliations": [
+            {
+              "name": "PHAS, UBC",
+              "url": ""
+            }
+          ]
+        }
+        
+      ],
+      "katex": {
+        "delimiters": [
+          {
+            "left": "$",
+            "right": "$",
+            "display": false
+          },
+          {
+            "left": "$$",
+            "right": "$$",
+            "display": true
+          }
+        ]
+      }
+    }</script>
+  </d-front-matter>
+
+  <body class="fixed-top-navsticky-bottom-footer">
 
     <!-- Header -->
     <header>
@@ -201,7 +134,7 @@
 
               
               <!-- Downloads -->
-              <li class="nav-item ">
+              <li class="nav-item active">
                 <a class="nav-link" href="/data/">downloads</a>
               </li>
 
@@ -234,21 +167,61 @@
     </header>
 
     <!-- Content -->
-    <div class="container mt-5">
-      <!-- page.html -->
-        <div class="post">
+    <div class="post distill">
 
-          <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
-          </header>
+      <d-title>
+        <h1>Meeting Recordings and Animations</h1>
+        <p>download video recordings and animations from my past talks</p>
+      </d-title>
 
-          <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://yukunhuang.com/">here</a>.</p>
+      <d-byline></d-byline>
 
-          </article>
+      <d-article>
+        <d-contents>
+          <nav class="l-text figcaption">
+          <h3>Contents</h3>
+            <div><a href="#meeting-vods">Meeting VODs</a></div>
+            <div><a href="#animations">Animations</a></div>
+            
+          </nav>
+        </d-contents>
 
-        </div>
+        <h2 id="meeting-vods">Meeting VODs</h2>
+
+<h3 id="dps-2023---san-antonio-tx-us">DPS 2023 - San Antonio, TX, US</h3>
+<ul>
+  <li><a href="/download/videos/talks/dps2023-sednoids-talk.mp4" target="_blank" rel="noopener noreferrer">Primordial Orbital Clustering of Sednoids</a></li>
+</ul>
+
+<h3 id="dps-2022---london-on-canada">DPS 2022 - London, ON, Canada</h3>
+<ul>
+  <li><a href="/download/videos/talks/dps2022-rogue-planet-talk.mp4" target="_blank" rel="noopener noreferrer">Effect of a Rogue Planet on the Early Solar System</a></li>
+</ul>
+
+<h3 id="dda-2022---manhattan-ny-us">DDA 2022 - Manhattan, NY, US</h3>
+<ul>
+  <li><a href="/download/videos/talks/dda2022-rogue-planet-talk.mp4" target="_blank" rel="noopener noreferrer">A Rogue Planet Populated the Distant Kuiper Belt</a></li>
+</ul>
+
+<h2 id="animations">Animations</h2>
+<h3 id="huang-et-al-2022-apjl">Huang et al. 2022, ApJL</h3>
+<p><strong>Note.</strong> Please read our <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ac9480" target="_blank" rel="noopener noreferrer">paper</a> before using these two videos:</p>
+
+<ul>
+  <li>
+    <p><a href="/download/videos/animations/apjl2022-rogue-main-sim-animation.mp4" target="_blank" rel="noopener noreferrer">Main Simulation with the Rogue</a></p>
+  </li>
+  <li>
+    <p><a href="/download/videos/animations/apjl2022-rogue-ref-sim-animation.mp4" target="_blank" rel="noopener noreferrer">Reference Simulation without the Rogue</a></p>
+  </li>
+</ul>
+
+      </d-article>
+
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
 
     </div>
 
@@ -258,8 +231,14 @@
 Last updated: July 18, 2025.
       </div>
     </footer>
-    
-    <!-- <script>$('table.display').DataTable()</script> -->
-  </body>
-</html>
 
+
+
+  </body>
+
+  <d-bibliography src="/assets/bibliography/">
+  </d-bibliography>
+
+  <script src="/assets/js/distillpub/overrides.js"></script>
+
+</html>
